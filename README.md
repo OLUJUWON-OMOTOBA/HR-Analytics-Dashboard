@@ -1,7 +1,3 @@
-## 3) `HR-Analytics-Dashboard/README.md`
-
-
-```markdown
 # HR Analytics Dashboard
 
 
