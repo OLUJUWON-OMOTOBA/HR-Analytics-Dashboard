@@ -1,13 +1,16 @@
+## Overview
+HR analytics project showcasing workforce composition, attrition, and performance. This dashboard is ideal for demonstrating the ability to uncover people insights and support HR / People Ops decisions.
+
 # HR Analytics Dashboard
 <img width="1277" height="714" alt="image" src="https://github.com/user-attachments/assets/195587c9-e175-41f5-9a55-51b32d989e18" />
 
 
 
 
-## Overview
 
 
-HR analytics project showcasing workforce composition, attrition, and performance. This dashboard is ideal for demonstrating the ability to uncover people insights and support HR / People Ops decisions.
+
+
 
 
 ## What’s included
