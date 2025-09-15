@@ -1,8 +1,7 @@
 # HR Analytics Dashboard
+<img width="1277" height="714" alt="image" src="https://github.com/user-attachments/assets/195587c9-e175-41f5-9a55-51b32d989e18" />
 
 
-![Power BI](https://img.shields.io/badge/Tool-Power%20BI-blue)
-![Dataset](https://img.shields.io/badge/Dataset-Synthetic-green)
 
 
 ## Overview
