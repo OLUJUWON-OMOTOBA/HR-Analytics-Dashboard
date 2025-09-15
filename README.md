@@ -27,20 +27,20 @@ HR analytics project showcasing workforce composition, attrition, and performanc
 - Simple predictive signals (flagging high attrition departments)
 
 
-## Suggested Power BI build steps
+## Power BI build steps
 
 
-1. Import `employees.csv` into Power BI Desktop.
-2. Convert `hire_date` to Date and create a Date dimension if needed.
-3. Create calculated columns for tenure and high-performer flag (e.g., performance_score >= 4.0).
-4. Build visuals:
+1. Imported `employees.csv` into Power BI Desktop.
+2. Converted `hire_date` to Date and create a Date dimension if needed.
+3. Created calculated columns for tenure and high-performer flag (e.g., performance_score >= 4.0).
+4. Built visuals:
 - Stacked column or donut: headcount by department
 - Clustered bar: attrition rate by department
 - Scatter plot: performance vs salary
 - Boxplot (or distribution) for salary by department
 
 
-## Example DAX snippets
+## DAX snippets
 
 
 ```dax
